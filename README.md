@@ -1,1 +1,1 @@
-# kidzwebpage-whatsapp-responsive
+# kidz-world-static
